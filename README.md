@@ -21,3 +21,5 @@ Clean and User-Friendly Interface :- The app is designed with a clean and intuit
 screenShots ->
 
 
+![Simulator Screen Shot - iPhone 13 mini - 2023-10-11 at 14 59 26](https://github.com/pratikbm42/CoreDataCRUDOperations/assets/146938244/f03900ea-d832-4532-807e-4fbe58065d27)
+![Simulator Screen Shot - iPhone 13 mini - 2023-10-11 at 15 19 19](https://github.com/pratikbm42/CoreDataCRUDOperations/assets/146938244/eec8b2f8-0c4b-4373-942f-0722d35466ef)
